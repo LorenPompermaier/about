@@ -1,0 +1,267 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 1.3;
+    color: #333;
+}
+
+.div1 {
+    height: 680px;
+    padding-left: 68.3px;
+    background-image: linear-gradient(-225deg, rgba(48, 35, 174, .4), rgba(83, 160, 253, .4) 30%, rgba(180, 236, 81, .4));
+}
+
+.navegação {
+    font-family: 'Roboto', sans-serif;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 68.3px;
+    font-size: 16px;
+}
+
+.linkscabeçalho {
+    float: right;
+}
+
+.logo {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    color: #0e5786;
+}
+
+.pricing {
+    margin-left: 20px;
+}
+
+.login {
+    margin-left: 20px;
+}
+
+.botão1 {
+    color: #fff;
+    background-color: #0e5786;
+    border-color: #0872b4;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    margin-left: 20px;
+    text-decoration: none !important;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.imagens {
+    float: right;
+}
+
+.textoimagem1 {
+    font-family: 'Roboto', sans-serif;
+    padding-top: 60px;
+    font-size: 50px;
+}
+
+.texto_1 {
+    margin-bottom: 10px;
+    line-height: 1.2;
+    opacity: .9;
+    white-space: nowrap;
+}
+
+.textoimagem2 {
+    font-size: 20px;
+}
+
+.texto_2 {
+    margin-bottom: 20px;
+    line-height: 1.5;
+    opacity: .7;
+    font-weight: 400;
+}
+
+.botão {
+    font-family: 'Roboto', sans-serif;
+    padding-top: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    width: 320px;
+    height: 40px;
+    margin-bottom: 20px;
+    background-image: linear-gradient(180deg, #26abd8, #1677b6);
+}
+
+.botão_2 {
+    padding-top: 20px;
+    color: #fff;
+    text-decoration: none !important;
+}
+
+.redessociais {
+    font-family: 'Roboto', sans-serif;
+    width: 320px;
+}
+
+.facebook {
+    width: 140px;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    text-align: right;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.facebook1 {
+    text-decoration: none !important;
+}
+
+.google {
+    width: 140px;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    text-align: right;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.google1 {
+    text-decoration: none !important;
+}
+
+
+.div2 {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+    height: 510px;
+    padding-top: 70px;
+}
+
+.professional {
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+
+.spotlight {
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+
+.onelink {
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+
+.explore {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #0e5786;
+    font-size: 19px;
+}
+
+.div3 {
+    height: 850px;
+    background-image: linear-gradient(-225deg, rgba(48, 35, 174, .4), rgba(83, 160, 253, .4) 30%, rgba(180, 236, 81, .4));
+}
+
+.textoultimaimagem {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.over_1 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.segundobotão {
+    font-family: 'Roboto', sans-serif;
+    padding-top: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    width: 320px;
+    height: 40px;
+    margin-bottom: 20px;
+    background-image: linear-gradient(180deg, #26abd8, #1677b6);
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.botão_segundo {
+    color: #fff;
+    text-decoration: none !important;
+}
+
+.redessociais2 {
+    font-family: 'Roboto', sans-serif;
+    width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.facebook2 {
+    width: 140px;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    text-align: right;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.facebook3 {
+    text-decoration: none !important;
+}
+
+.google2 {
+    float: right;
+    width: 140px;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    text-align: right;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.google3 {
+    text-decoration: none !important;
+}
